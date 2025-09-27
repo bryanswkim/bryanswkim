@@ -5,7 +5,7 @@
 
 - Interested in multimodal generative models, image & video diffusion models, and inverse problems.
 
-- Actively seeking research opportunities for 2026. Visit my [website](https://bryanswkim.github.io/)!
+- Greatly interested in research opportunities for 2026. Visit my [website](https://bryanswkim.github.io/)!
 
 - Feel free to reach out to me at bryanswkim(at)kaist.ac.kr or lodingkim(at)gmail.com
 
