@@ -32,3 +32,11 @@
 **[CVPR 2025]** VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide \
 *Dohun Lee\*, **Bryan Sangwoo Kim**\*, Geon Yeong Park, Jong Chul Ye **(\*equal contribution)*** \
 [Paper](https://arxiv.org/abs/2410.04364) | [Project](https://dohunlee1.github.io/videoguide.github.io/)
+
+**[Preprint]** Align Your Query: Representation Alignment for Multimodality Medical Object Detection \
+*Ara Seo\*, **Bryan Sangwoo Kim**\*, Hyungjin Chung, Jong Chul Ye **(\*equal contribution)*** \
+[Paper](https://arxiv.org/abs/2510.02789) | [Project](https://araseo.github.io/alignyourquery/)
+
+**[Preprint]** Extreme Blind Image Restoration via Prompt-Conditioned Information Bottleneck \
+*Hongeun Kim\*, **Bryan Sangwoo Kim**\*, Jong Chul Ye **(\*equal contribution)*** \
+[Paper](https://www.arxiv.org/abs/2510.00728)
