@@ -1,11 +1,13 @@
 
 - Hello! I’m Bryan Sangwoo Kim.
 
-- Currently a 2nd-year M.S. Student at KAIST AI.
+- I'm an incoming Ph.D. student at Stanford University, Computer Science Department.
+
+- Previously an M.S. Student at KAIST AI.
 
 - Interested in multimodal generative models, image & video diffusion models, and inverse problems.
 
-- Greatly interested in research opportunities for 2026. Visit my [website](https://bryanswkim.github.io/)!
+- Greatly interested in any research collaborations. Visit my [website](https://bryanswkim.github.io/)!
 
 - Feel free to reach out to me at bryanswkim(at)kaist.ac.kr or lodingkim(at)gmail.com
 
@@ -32,6 +34,10 @@
 **[CVPR 2025]** VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide \
 *Dohun Lee\*, **Bryan Sangwoo Kim**\*, Geon Yeong Park, Jong Chul Ye **(\*equal contribution)*** \
 [Paper](https://arxiv.org/abs/2410.04364) | [Project](https://dohunlee1.github.io/videoguide.github.io/)
+
+**[Preprint]** Tiled Prompts: Overcoming Prompt Misguidance in Image and Video Super-Resolution \
+***Bryan Sangwoo Kim**\*, Jonghyun Park\*, Jong Chul Ye **(\*equal contribution)*** \
+[Paper](https://arxiv.org/abs/2602.03342) | [Project](https://bryanswkim.github.io/tiled-prompts/)
 
 **[Preprint]** Align Your Query: Representation Alignment for Multimodality Medical Object Detection \
 *Ara Seo\*, **Bryan Sangwoo Kim**\*, Hyungjin Chung, Jong Chul Ye **(\*equal contribution)*** \
